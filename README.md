@@ -1,3 +1,5 @@
+一个轻量级的全文搜索引擎，目标是充当 Elasticsearch 的替代品。只有一个二进制文件，自带 Web 管理界面。
+
 Note: Zinc and all its APIs are considered to be alpha stage at this time. Expect breaking changes in API contracts and data format before at this stage.
 # Zinc Search Engine
 
